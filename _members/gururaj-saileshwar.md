@@ -10,9 +10,9 @@ office: BA 5234
 links:
   home-page: https://gururaj-s.github.io/
   email: gururaj@cs.toronto.edu  
-  github: https://github.com/gururaj-s
-  linkedin: https://www.linkedin.com/in/gururaj-saileshwar-080a4526
-  twitter: https://twitter.com/gururajs92
+  github: gururaj-s
+  linkedin: gururaj-saileshwar-080a4526
+  twitter: gururajs92
 ---
 
 Gururaj Saileshwar's research focuses on improving the security for computing hardware and systems. His research interests include cache side-channels, transient execution attacks, Rowhammer attacks, DRAM integrity, memory safety and fuzzing. Some of his research contributions include:
