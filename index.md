@@ -71,7 +71,7 @@ Our team is made up of faculty, postdoctoral researchers, graduate students, res
 
 {% capture text %}
 
-A great way to learn about our work is to see how it’s making an impact. Browse or search our latest news and announcements.”
+A great way to learn about our work is to see how it’s making an impact. Browse or search our latest news and announcements.
 
 {%
   include button.html
