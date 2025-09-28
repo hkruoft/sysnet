@@ -20,6 +20,32 @@ As an energetic research group, we have regular group meetings to discuss our cu
 ​
 
 ## Highlights
+
+{% capture text %}
+
+Check out the Systems @ UofT Seminar Series which is a monthly seminar series in computer systems, organized by our group.
+
+{%
+  include button.html
+  link="https://systems-seminar.cs.toronto.edu/"
+  text="Systems @ UofT Seminar Series"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/systems_seminar.png"
+  link="https://systems-seminar.cs.toronto.edu/"
+  title="Our Seminar Series"
+  text=text
+%}
+
+
+
 {% capture text %}
 
 Our team is made up of faculty, postdoctoral researchers, graduate students, research assistants and staff.
