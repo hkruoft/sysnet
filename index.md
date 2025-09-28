@@ -38,7 +38,7 @@ Check out the Systems @ UofT Seminar Series which is a monthly seminar series in
 
 {%
   include feature.html
-  image="images/systems_seminar.png"
+  image="images/seminar.png"
   link="https://systems-seminar.cs.toronto.edu/"
   title="Our Seminar Series"
   text=text
