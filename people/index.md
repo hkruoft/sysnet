@@ -36,6 +36,7 @@ nav:
 {% include portrait.html name="Brian Ramprasad" role="phd" image="images/brianr.webp" content=" " %}
 {% include portrait.html name="Di Wu" image="images/di_wu.webp" role="phd" content=" " %}
 {% include portrait.html name="Gavin Guan" role="phd" image="images/gavin.webp" content="" %}
+{% include portrait.html name="Hyuhng Min Kim" role="phd" image="images/hmkim.jpeg" content=" " %}
 {% include portrait.html name="Guy Khazma" role="phd" image="images/guy.webp" content=" " %}
 {% include portrait.html name="Jason (Jiasheng) Hu" role="phd" image="images/jiasheng.webp" content="" %}
 {% include portrait.html name="Kai Shen" role="phd" image="images/kai.jpg" content=" " %}
