@@ -45,6 +45,7 @@ nav:
 {% include portrait.html name="Navid Eslami" role="phd" image="images/navid.webp" content=" " %}
 {% include portrait.html name="Nikolay Avramov" role="phd" image="images/nikolay_a.jpeg" content=" " %}
 {% include portrait.html name="Pawan Kumar Sanjaya" role="phd" image="images/pawan.webp" content="" %}
+{% include portrait.html name="Parsa Pazhooheshy" role="phd" image="images/parsa.jpg" content="" %}
 {% include portrait.html name="Pritish Mishra" role="phd" image="images/pritish.webp" content=" " %}
 {% include portrait.html name="Renbo Tu" role="phd" image="images/renbo-30p.webp" content="" %}
 {% include portrait.html name="Ruofan Liang" role="phd" image="images/ruofan.webp" content="" %}
