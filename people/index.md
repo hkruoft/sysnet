@@ -46,7 +46,7 @@ nav:
 {% include portrait.html name="Myles Thiessen" role="phd" image="images/myles.webp" content="" %}
 {% include portrait.html name="Navid Eslami" role="phd" image="images/navid.webp" content=" " %}
 {% include portrait.html name="Nikolay Avramov" role="phd" image="images/nikolay_a.jpeg" content=" " %}
-{% include portrait.html name="Pawan Kumar Sanjaya" role="phd" image="images/pawan.webp" content="" %}
+{% include portrait.html name="Pawan Kumar Sanjaya" role="phd" image="images/pawan.webp" link="https://pawks.github.io/" content="" %}
 {% include portrait.html name="Parsa Pazhooheshy" role="phd" image="images/parsa.jpg" content="" %}
 {% include portrait.html name="Pavel Golikov" role="phd" image="images/pavel.jpeg" content="" %}
 {% include portrait.html name="Pritish Mishra" role="phd" image="images/pritish.webp" content=" " %}
