@@ -47,6 +47,7 @@ nav:
 {% include portrait.html name="Nikolay Avramov" role="phd" image="images/nikolay_a.jpeg" content=" " %}
 {% include portrait.html name="Pawan Kumar Sanjaya" role="phd" image="images/pawan.webp" content="" %}
 {% include portrait.html name="Parsa Pazhooheshy" role="phd" image="images/parsa.jpg" content="" %}
+{% include portrait.html name="Pavel Golikov" role="phd" image="images/pavel.jpeg" content="" %}
 {% include portrait.html name="Pritish Mishra" role="phd" image="images/pritish.webp" content=" " %}
 {% include portrait.html name="Renbo Tu" role="phd" image="images/renbo-30p.webp" content="" %}
 {% include portrait.html name="Ruofan Liang" role="phd" image="images/ruofan.webp" content="" %}
@@ -57,6 +58,7 @@ nav:
 {% include portrait.html name="Shaopeng Lin" role="phd" image="images/shaopeng.webp" content="" %}
 {% include portrait.html name="Shikhar Jaiwal" role="phd" image="images/shikhar-jaiswal.webp" content="" %}
 {% include portrait.html name="Steve Rhyner" role="phd" image="images/steve_rhyner.jpg" content="" %}
+{% include portrait.html name="Vedic Sharma" role="phd" image="images/vedic.jpeg" content="" %}
 {% include portrait.html name="Yu Bo Gao" role="phd" image="images/yu.webp" content="" %}
 {% include portrait.html name="Zechen Ma" role="phd" image="images/zechen.webp" content="" %}
 {% include portrait.html name="Zhijie Wu" role="phd" image="images/zhijie_w.jpg" content="" %}
