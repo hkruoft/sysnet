@@ -56,7 +56,6 @@ nav:
 {% include portrait.html name="Sankeerth Durvasula" role="phd" image="images/sankeerth.webp" content="" %}
 {% include portrait.html name="Sejal Bhalla" role="phd" image="images/sejal.webp" content="" %}
 {% include portrait.html name="Shaopeng Lin" role="phd" image="images/shaopeng.webp" content="" %}
-{% include portrait.html name="Shikhar Jaiwal" role="phd" image="images/shikhar-jaiswal.webp" content="" %}
 {% include portrait.html name="Steve Rhyner" role="phd" image="images/steve_rhyner.jpg" content="" %}
 {% include portrait.html name="Vedic Sharma" role="phd" image="images/vedic.jpeg" content="" %}
 {% include portrait.html name="Yu Bo Gao" role="phd" image="images/yu.webp" content="" %}
