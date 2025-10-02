@@ -71,7 +71,7 @@ nav:
 {% include portrait.html name="Felix Zhang" role="masters" image="images/felixzhang.jpeg" content="" %}
 {% include portrait.html name="Filip Grigorov" role="masters" image="images/filip.webp" content="" %}
 {% include portrait.html name="Nika Mosayebibehrooz" role="masters" image="images/nika.webp" content="" %}
-{% include portrait.html name="Stefan de Lasa" role="masters" image="images/stefandelasa.jpeg" content="" %}
+{% include portrait.html name="Stefan de Lasa" role="masters" image="images/stefandelasa.jpg" url="https://www.linkedin.com/in/stefandelasa/" content="" %}
 {% include portrait.html name="Victor Pineda" role="masters" image="images/victorpineda.jpeg" content="" %}
 {% comment %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: current" %}
