@@ -70,7 +70,6 @@ nav:
 {% include portrait.html name="Christian Tabbah" role="masters" image="images/christian.webp" content="" %}
 {% include portrait.html name="Felix Zhang" role="masters" image="images/felixzhang.jpeg" content="" %}
 {% include portrait.html name="Filip Grigorov" role="masters" image="images/filip.webp" content="" %}
-{% include portrait.html name="Nika Mosayebibehrooz" role="masters" image="images/nika.webp" content="" %}
 {% include portrait.html name="Stefan de Lasa" role="masters" image="images/stefandelasa.jpg" url="https://www.linkedin.com/in/stefandelasa/" content="" %}
 {% include portrait.html name="Victor Pineda" role="masters" image="images/victorpineda.jpeg" content="" %}
 {% comment %}
@@ -85,6 +84,7 @@ nav:
 {% include portrait.html name="Christina Christodoulakis" role="alum-phd" image="images/christinac.webp" content=" " %}
 {% include portrait.html name="Akshay Arun Bapat" role="alum-masters" image="images/akshay-bapat.webp" url="https://www.utsc.utoronto.ca/cms/akshay-arun-bapat" content=" " %}
 {% include portrait.html name="Brian Fu" role="alum-masters" image="images/brianfu.webp" content=" " %}
+{% include portrait.html name="Nika Mosayebibehrooz" role="alum-masters" image="images/nika.webp" url="https://www.linkedin.com/in/nika-mosayebi/" content="" %}
 {% include portrait.html name="Sahar Sheikholeslami" role="alum-masters" image="images/sahar.webp" content="" %}
 
 {% comment %}
