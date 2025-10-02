@@ -41,7 +41,7 @@ nav:
 {% include portrait.html name="Jiacheng Yang" role="phd" image="images/jiacheng.jpeg" content="" %}
 {% include portrait.html name="Kai Shen" role="phd" image="images/kai.jpg" url="https://www.kaishen.ca/" content=" " %}
 {% include portrait.html name="Kevin Song" role="phd" image="images/kevin.webp" content="" %}
-{% include portrait.html name="Mohammadreza Mofayezi" role="phd" image="images/mohammadreza.webp" content="" %}
+{% include portrait.html name="Mohammadreza Mofayezi" role="phd" image="images/mohammadreza.webp" url="https://mofayezi.github.io" content="" %}
 {% include portrait.html name="Myles Thiessen" role="phd" image="images/myles.webp" content="" %}
 {% include portrait.html name="Navid Eslami" role="phd" image="images/navid.webp" content=" " %}
 {% include portrait.html name="Nikolay Avramov" role="phd" image="images/nikolay_a.jpeg" content=" " %}
