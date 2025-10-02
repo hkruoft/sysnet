@@ -28,7 +28,6 @@ nav:
 # Graduate Students
 
 {% include portrait.html name="Adrian Zhao" role="phd" image="images/adrian.webp" content="" %}
-{% include portrait.html name="Alireza Shateri" role="phd" image="images/alireza.webp" content="" %}
 {% include portrait.html name="Anand Jayarajan" role="phd" image="images/anand.webp" content="" %}
 {% include portrait.html name="Anthony DiMaggio" role="phd" image="images/anthony_dimaggio.jpeg" content="" %}
 {% include portrait.html name="Andreas Burger" role="phd" image="images/andreas.webp" content="" %}
@@ -81,6 +80,7 @@ nav:
 # Recent Alumni
 
 {% include portrait.html name="Alexey Khrabrov" role="alum-phd" image="images/alexey.webp" content=" " %}
+{% include portrait.html name="Alireza Shateri" role="alum-masters" image="images/alireza.webp" content="" %}
 {% include portrait.html name="Christina Christodoulakis" role="alum-phd" image="images/christinac.webp" content=" " %}
 {% include portrait.html name="Akshay Arun Bapat" role="alum-masters" image="images/akshay-bapat.webp" url="https://www.utsc.utoronto.ca/cms/akshay-arun-bapat" content=" " %}
 {% include portrait.html name="Brian Fu" role="alum-masters" image="images/brianfu.webp" content=" " %}
