@@ -81,6 +81,7 @@ nav:
 # Recent Alumni
 
 {% include portrait.html name="Alexey Khrabrov" role="alum-phd" image="images/alexey.webp" content=" " %}
+{% include portrait.html name="Ali Jokar" role="phd" image="images/alijokar.jpeg" content="" %}
 {% include portrait.html name="Alireza Shateri" role="alum-masters" image="images/alireza.webp" content="" %}
 {% include portrait.html name="Christina Christodoulakis" role="alum-phd" image="images/christinac.webp" content=" " %}
 {% include portrait.html name="Akshay Arun Bapat" role="alum-masters" image="images/akshay-bapat.webp" url="https://www.utsc.utoronto.ca/cms/akshay-arun-bapat" content=" " %}
