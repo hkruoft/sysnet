@@ -34,7 +34,7 @@ nav:
 {% include portrait.html name="Ashwin Kartikeyan" image="images/ashwin_k.jpeg" role="phd" content="" %}
 {% include portrait.html name="Brian Ramprasad" role="phd" image="images/brianr.webp" content=" " %}
 {% include portrait.html name="Di Wu" image="images/di_wu.webp" role="phd" content=" " %}
-{% include portrait.html name="Farid Zandi" image="images/faridzandi.jpg" role="phd" content=" " %}
+{% include portrait.html name="Farid Zandi" image="images/faridzandi.jpg" role="phd" url="https://www.linkedin.com/in/farid-zandi1997/ " content=" " %}
 {% include portrait.html name="Gavin Guan" role="phd" image="images/gavin.webp" content="" %}
 {% include portrait.html name="Hyuhng Min Kim" role="phd" image="images/hmkim.jpeg" content=" " %}
 {% include portrait.html name="Guy Khazma" role="phd" image="images/guy.webp" content=" " %}
