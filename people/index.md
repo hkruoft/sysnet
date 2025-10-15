@@ -88,7 +88,7 @@ nav:
 {% include portrait.html name="Brian Fu" role="alum-masters" image="images/brianfu.webp" content=" " %}
 {% include portrait.html name="Nika Mosayebibehrooz" role="alum-masters" image="images/nika.webp" url="https://www.linkedin.com/in/nika-mosayebi/" content="" %}
 {% include portrait.html name="Sahar Sheikholeslami" role="alum-masters" image="images/sahar.webp" content="" %}
-{% include portrait.html name="Sepehr Abbasi Zadeh" role="alum-phd" image="images/sepheraz.jpg" url="https://www.cs.toronto.edu/~sepehr/" content="" %}
+{% include portrait.html name="Sepehr Abbasi Zadeh" role="alum-phd" image="images/sepehraz.jpg" url="https://www.cs.toronto.edu/~sepehr/" content="" %}
 
 {% comment %}
 {% include list.html data="members" component="portrait" filters="role: alum-phd" %}
