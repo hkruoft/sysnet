@@ -14,7 +14,7 @@ nav:
 
 {% include portrait.html name="Eyal de Lara" description="Professor & Chair" image="images/eyal.webp" url="https://www.cs.toronto.edu/~delara/"  %}
 {% include portrait.html name="Angela Demke Brown" description="Professor" image="images/demke.webp" url="https://www.cs.toronto.edu/~demke/"  %}
-{% include portrait.html name="Bianca Schröeder" description="Professor" image="images/bianca.webp" url="https://www.cs.toronto.edu/~bianca/"  %}
+{% include portrait.html name="Bianca Schroeder" description="Professor" image="images/bianca.webp" url="https://www.cs.toronto.edu/~bianca/"  %}
 {% include portrait.html name="Nick Koudas" description="Professor" image="images/koudas.png" url="https://www.cs.toronto.edu/~koudas/"  %}
 {% include portrait.html name="Peter Marbach" description="Professor" image="images/peter.webp" url="https://www.cs.toronto.edu/~marbach/"  %}
 {% include portrait.html name="Yashar Ganjali" description="Professor" image="images/bianca.webp" url="https://www.cs.toronto.edu/~yganjali/"  %}
