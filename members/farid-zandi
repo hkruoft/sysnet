@@ -1277,14 +1277,14 @@
 >
   
 <div class="portrait-wrapper">
-  <div class="portrait" data-style="" aria-label="Farid Zandi">
+  <div class="portrait" data-style="" aria-label="Farid Zandi" style="display:inline-block; vertical-align:top;">
 
     
       
     
 
     
-      <a href="/members/farid-zandi" aria-label="Farid Zandi">
+      <a href="/members/farid-zandi" aria-label="Farid Zandi" style="display:inline-block; vertical-align:top;">
     
 
         <img src="/images/faridzandi.jpg" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
