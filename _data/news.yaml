@@ -9,7 +9,7 @@
   image: images/vldb25.jpg
   tages: news,faculty
   date: 2025-09-20
-  link: https://web.cs.toronto.edu/news-events/news/university-of-toronto-team-discovers-vulnerability-at-hardware-software-boundary-in-cloud-systems
+  link: https://csng.cs.toronto.edu/2025/09/20/niv-navid-vldb-2025.html
   description: "Congratulations to Niv Dayan, Navid Eslami and their co-author Ioana Bercea on receiving the Best Paper Award for their work 'Diva: Dynamic Range Filter for Var-Length Keys and Queries' at VLDB 2025 in London this September! A well-deserved award for a data structure that knows how to filter out the competition!"
 
 - title: U of T researchers find GPU vulnerability with ‘catastrophic’ effects on AI model accuracy
