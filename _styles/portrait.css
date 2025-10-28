@@ -10,7 +10,7 @@
   flex-direction: column;
   margin: 20px;
   width: 175px;
-  max-width: calc(100% - 20px - 20px);
+  max-width: min(175px, 35%);
   text-decoration: none;
 }
 
@@ -51,7 +51,7 @@
 
 .portrait-image {
   width: 100%;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
   aspect-ratio: 1/1;
   border-radius: 999px;
   object-fit: cover;
