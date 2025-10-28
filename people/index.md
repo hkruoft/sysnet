@@ -8,9 +8,23 @@ nav:
 
 
 # Faculty 
+{% comment %}
 {% include list.html data="members" component="faculty" filters="role: faculty" %}
+{% endcomment %}
 
 {% include portrait.html name="Eyal de Lara" description="Professor & Chair" image="images/eyal.webp" url="https://www.cs.toronto.edu/~delara/" content=" " %}
+{% include portrait.html name="Angela Demke Brown" description="Professor" image="images/demke.webp" url="https://www.cs.toronto.edu/~demke/" content=" " %}
+{% include portrait.html name="Bianca Schröeder" description="Professor" image="images/bianca.webp" url="https://www.cs.toronto.edu/~bianca/" content=" " %}
+{% include portrait.html name="Nick Koudas" description="Professor" image="images/koudas.png" url="https://www.cs.toronto.edu/~koudas/" content=" " %}
+{% include portrait.html name="Peter Marbach" description="Professor" image="images/peter.webp" url="https://www.cs.toronto.edu/~marbach/" content=" " %}
+{% include portrait.html name="Yashar Ganjali" description="Professor" image="images/bianca.webp" url="https://www.cs.toronto.edu/~yganjali/" content=" " %}
+{% include portrait.html name="Anwar Hithnawi" description="Assistant Professor" image="images/anwar.webp" url="https://pps-lab.com/people/anwarhithnawi/" content=" " %}
+{% include portrait.html name="Gennady Pekhimenko" description="Assistant Professor" image="images/gennady.webp" url="https://www.cs.toronto.edu/~pekhimenko/" content=" " %}
+{% include portrait.html name="Gururaj Saileshwar" description="Assistant Professor" image="images/gururaj.webp" url="https://gururaj-s.github.io/" content=" " %}
+{% include portrait.html name="Nandita Vijaykumar" description="Assistant Professor" image="images/nandita.webp" url="https://www.cs.toronto.edu/~nandita/" content=" " %}
+{% include portrait.html name="Niv Dayan" description="Assistant Professor" image="images/niv.webp" url="https://www.cs.toronto.edu/~nandita/" content=" " %}
+{% include portrait.html name="Qizhen Zhang" description="Assistant Professor" image="images/qizhen.webp" url="https://qizhenzhang.me/" content=" " %}
+
 {% include list.html data="members" component="faculty" filters="role: future" %}
 {% include section.html %}
 
