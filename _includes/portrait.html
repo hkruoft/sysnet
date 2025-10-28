@@ -53,7 +53,7 @@
           {{ member.name }}
         </span>
       {% endif %}
-
+    </a>
       {% if member.description or type %}
         <span class="portrait-description">
           {{ member.description | default: type.description }}
@@ -67,7 +67,6 @@
       {% endif %}
 
   {% if member.role == "faculty" or member.url %}
-    </a>
   {% else %}
     </div>
   {% endif %}
