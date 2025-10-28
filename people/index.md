@@ -17,7 +17,7 @@ nav:
 {% include portrait.html name="Bianca Schroeder" description="Professor" image="images/bianca.webp" url="https://www.cs.toronto.edu/~bianca/"  %}
 {% include portrait.html name="Nick Koudas" description="Professor" image="images/koudas.png" url="https://www.cs.toronto.edu/~koudas/"  %}
 {% include portrait.html name="Peter Marbach" description="Professor" image="images/peter.webp" url="https://www.cs.toronto.edu/~marbach/"  %}
-{% include portrait.html name="Yashar Ganjali" description="Professor" image="images/bianca.webp" url="https://www.cs.toronto.edu/~yganjali/"  %}
+{% include portrait.html name="Yashar Ganjali" description="Professor" image="images/yashar.webp" url="https://www.cs.toronto.edu/~yganjali/"  %}
 {% include portrait.html name="Anwar Hithnawi" description="Assistant Professor" image="images/anwar.webp" url="https://pps-lab.com/people/anwarhithnawi/"  %}
 {% include portrait.html name="Gennady Pekhimenko" description="Assistant Professor" image="images/gennady.webp" url="https://www.cs.toronto.edu/~pekhimenko/"  %}
 {% include portrait.html name="Gururaj Saileshwar" description="Assistant Professor" image="images/gururaj.webp" url="https://gururaj-s.github.io/"  %}
