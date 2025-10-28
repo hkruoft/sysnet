@@ -14,6 +14,7 @@
     class="portrait"
     data-style="{{ include.style }}"
     aria-label="{{ member.name | default: "member" }}"
+    style="display:inline-block; vertical-align:top;"
   >
 
     {% if type %}
@@ -28,6 +29,7 @@
           href="{{ member.url | relative_url }}"
         {% endif %}
         aria-label="{{ member.name | default: "member link" }}"
+        style="display:inline-block; vertical-align:top;"
       >
     {% endif %}
 
