@@ -10,6 +10,7 @@ nav:
 # Faculty 
 {% include list.html data="members" component="faculty" filters="role: faculty" %}
 
+{% include portrait.html name="Eyal de Lara" description="Professor & Chair" image="images/eyal.webp" url="https://www.cs.toronto.edu/~delara/" content=" " %}
 {% include list.html data="members" component="faculty" filters="role: future" %}
 {% include section.html %}
 
