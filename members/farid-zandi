@@ -1228,19 +1228,19 @@
     
       
         <a
-          href="/contact/"
-          data-tooltip="Email, address, and location"
+          href="/seminar-series/"
+          data-tooltip=""
         >
-          Contact
+          Seminar Series
         </a>
       
     
       
         <a
-          href="/seminar-series/"
-          data-tooltip=""
+          href="/contact/"
+          data-tooltip="Email, address, and location"
         >
-          Seminar Series
+          Contact
         </a>
       
     
