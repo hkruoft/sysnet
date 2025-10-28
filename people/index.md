@@ -4,10 +4,8 @@ nav:
   order: 1
 ---
 
-# {% include icon.html icon="fa-solid fa-people-group" %}
+# {% include icon.html icon="fa-solid fa-people-group" %} Faculty 
 
-
-# Faculty 
 {% comment %}
 {% include list.html data="members" component="faculty" filters="role: faculty" %}
 {% endcomment %}
@@ -28,7 +26,7 @@ nav:
 {% include list.html data="members" component="faculty" filters="role: future" %}
 {% include section.html %}
 
-# Researchers
+# {% include icon.html icon="fa-solid fa-book-open" %} Researchers
 
 {% include portrait.html name="Moshe Gabel" role="research-associate" image="images/moshe.webp"  %}
 {% include portrait.html name="Christina Christodoulakis" role="postdoc" image="images/christinac.webp"  %}
@@ -40,7 +38,7 @@ nav:
 {% endcomment %}
 
 {% include section.html %}
-# Graduate Students
+# {% include icon.html icon="fa-solid fa-scroll" %} Graduate Students
 
 {% include portrait.html name="Adrian Zhao" role="phd" image="images/adrian.webp" style="small"  %}
 {% include portrait.html name="Anand Jayarajan" role="phd" image="images/anand.webp" style="small" %}
@@ -85,7 +83,7 @@ nav:
 {% include portrait.html name="Christian Tabbah" role="masters" image="images/christian.webp" style="small" %}
 {% include portrait.html name="Felix Zhang" role="masters" image="images/felixzhang.jpeg" style="small" %}
 {% include portrait.html name="Filip Grigorov" role="masters" image="images/filip.webp" style="small" %}
-{% include portrait.html name="Stefan de Lasa" role="masters" image="images/stefandelasa.jpg" url="https://www.linkedin.com/in/stefandelasa/" style="small" %}
+{% include portrait.html name="Stefan de Lasa" description="MASc Student" image="images/stefandelasa.jpg" url="https://www.linkedin.com/in/stefandelasa/" style="small" %}
 {% include portrait.html name="Victor Pineda" role="masters" image="images/victorpineda.jpeg" style="small" %}
 {% comment %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: current" %}
@@ -93,7 +91,7 @@ nav:
 {% endcomment %}
 
 {% include section.html %}
-# Recent Alumni
+# {% include icon.html icon="fa-solid fa-graduation-cap" %} Recent Alumni
 
 {% include portrait.html name="Alexey Khrabrov" role="alum-phd" image="images/alexey.webp" style="small" %}
 {% include portrait.html name="Ali Jokar" role="alum-phd" image="images/alijokar.jpeg" style="small" %}
