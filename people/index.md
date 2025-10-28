@@ -22,7 +22,7 @@ nav:
 {% include portrait.html name="Gennady Pekhimenko" description="Assistant Professor" image="images/gennady.webp" url="https://www.cs.toronto.edu/~pekhimenko/" content=" " %}
 {% include portrait.html name="Gururaj Saileshwar" description="Assistant Professor" image="images/gururaj.webp" url="https://gururaj-s.github.io/" content=" " %}
 {% include portrait.html name="Nandita Vijaykumar" description="Assistant Professor" image="images/nandita.webp" url="https://www.cs.toronto.edu/~nandita/" content=" " %}
-{% include portrait.html name="Niv Dayan" description="Assistant Professor" image="images/niv.webp" url="https://www.cs.toronto.edu/~nandita/" content=" " %}
+{% include portrait.html name="Niv Dayan" description="Assistant Professor" image="images/niv.webp" url="http://nivdayan.net/" content=" " %}
 {% include portrait.html name="Qizhen Zhang" description="Assistant Professor" image="images/qizhen.webp" url="https://qizhenzhang.me/" content=" " %}
 
 {% include list.html data="members" component="faculty" filters="role: future" %}
