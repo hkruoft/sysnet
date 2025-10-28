@@ -5,12 +5,12 @@
   link: https://web.cs.toronto.edu/news-events/news/university-of-toronto-team-discovers-vulnerability-at-hardware-software-boundary-in-cloud-systems
   description: 
 
-- title: Niv Dayan Navid Eslami and their co-author Ioana Bercea in receiving a Best Paper Award 
+- title: "Niv Dayan, Navid Eslami and their co-author Ioana Bercea in receiving a Best Paper Award" 
   image: images/ri_202508.webp
   tages: news,faculty
   date: 2025-08-12
   link: https://web.cs.toronto.edu/news-events/news/university-of-toronto-team-discovers-vulnerability-at-hardware-software-boundary-in-cloud-systems
-  description: 
+  description: "Congratulations to Niv Dayan, Navid Eslami and their co-author Ioana Bercea in receiving a Best Paper Award for their work entitled 'Diva: Dynamic Range Filter for Var-Length Keys and Queries' at the 51st International Conference on Very Large Data Bases in London this September! A well-deserved award for a data structure that knows how to filter out the competition!"
 
 - title: U of T researchers find GPU vulnerability with ‘catastrophic’ effects on AI model accuracy
   image: images/gpuhammer.webp
