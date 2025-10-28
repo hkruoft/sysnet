@@ -52,7 +52,7 @@
     {% endif %}
 
     {% if member.description or type %}
-      <span class="portrait-description">
+      <span class="portrait-description" style="display: block; margin-top: 0.3em; text-align: left;">
         {{ member.description | default: type.description }}
       </span>
     {% endif %}
