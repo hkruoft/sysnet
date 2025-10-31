@@ -2,20 +2,21 @@
 title: Home
 nav:
     order: 0
+accordion:
+  - title: Systems
+    content: Focus on design and optimization of modern computer systems, from architecture to operating systems. We study large-scale and reliable computing infrastructures, memory systems, compilers, and runtime adaptation. Our work spans mobile and pervasive computing, stream processing, and performance-driven systems analysis to build efficient, scalable, and adaptive computing environments.
+  - title: Networking
+    content: Investigate the theory and practice of computer networking, focusing on data center networking, software-defined networks (SDNs), and congestion control. Our work also examines the structure and dynamics of large-scale social, economic, and computer networks, aiming to improve connectivity, scalability, and data flow in modern distributed systems.
+  - title: Databases & Data Structures
+    content: Our research addresses the full spectrum of data management, from the theoretical foundations of data structures to large-scale data processing systems. We design efficient, hardware-conscious data structures and explore new approaches for managing, querying, and analyzing massive datasets. We also focus on bridging cloud data processing & data center networks to address hyperscale data processing, and the intersection of databases and big data analytics.
+  - title: Security & Privacy
+    content: We focus on securing computing systems across the stack, from microarchitectural security to machine learning systems to interpersonal technology abuse, while also focusing on data privacy, applied cryptography and aiming to build secure and trustworthy computing environments.
+  - title: Machine Learning & AI Systems
+    content: We also focus on the intersection of systems and artificial intelligence, where we develop efficient and secure infrastructures for large-scale machine learning, and visual computing. Our work targets performance, scalability, and reliability in ML systems, spanning topics like hardware acceleration, ML for systems optimization, robotics, and computer vision applications.
 ---
-The **<u>Sys</u>**tems & **<u>Net</u>**works Group (**SysNet**) is part of the <a href="https://www.cs.toronto.edu/">Department of Computer Science</a>  at the <a href="https://utoronto.ca/">University of Toronto</a>. We work on projects that cover a diverse range of experimental and theoretical research, including operating systems, network security, mobile code architectures, high-performance computing and wireless networking.
+The **<u>Sys</u>**tems & **<u>Net</u>**works Group (**SysNet**) is part of the <a href="https://www.cs.toronto.edu/">Department of Computer Science</a>  at the <a href="https://utoronto.ca/">University of Toronto</a>. We work on projects that cover a diverse range of experimental and theoretical research across computer systems, networks, databases & data structures, security & privacy, machine learning & AI Systems and more. Below we summarize each category and our specialized focus in each.
 
-
-
-The systems side works on a range of experimental projects on Internet systems and services. Our interests span Web-based and peer-to-peer systems design, network measurement and traffic analysis, fault-tolerant Internet systems, wireless networking, and network security. Our mission is to investigate high-impact research avenues that will shape the next generation Internet systems and services.
-
-
-
-The networks side engages in both theoretical and experimental research: while we use modeling and analytical techniques to study fundamental problems in computer networks, we also conduct experimental studies and build real systems. Our research covers a broad range of topics including online social networks, wireless networks, peer-to-peer networks, sizing buffers in Internet routers and content delivery networks.
-
- 
-
-As an energetic research group, we have regular group meetings to discuss our current work and results. We also organize talks, research seminars and reading groups to facilitate cross-disciplinary discussion on topics of mutual interest.
+{% include accordion.html %}
 
 ​
 
