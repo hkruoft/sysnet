@@ -618,14 +618,54 @@
   
   
 
-  <section class="background" data-size="page">
-    <p>The <strong><u>Sys</u></strong>tems &amp; <strong><u>Net</u></strong>works Group (<strong>SysNet</strong>) is part of the <a href="https://www.cs.toronto.edu/">Department of Computer Science</a>  at the <a href="https://utoronto.ca/">University of Toronto</a>. We work on projects that cover a diverse range of experimental and theoretical research, including operating systems, network security, mobile code architectures, high-performance computing and wireless networking.</p>
+  <section class="background" data-size="130%; line-height: 1.1rem; padding: 0; position: absolute; right: 0.5rem; transition: all 0.15s ease-in-out">
+    <p>The <strong><u>Sys</u></strong>tems &amp; <strong><u>Net</u></strong>works Group (<strong>SysNet</strong>) is part of the <a href="https://www.cs.toronto.edu/">Department of Computer Science</a>  at the <a href="https://utoronto.ca/">University of Toronto</a>. We work on projects that cover a diverse range of experimental and theoretical research across computer systems, networks, databases &amp; data structures, security &amp; privacy, machine learning &amp; AI Systems and more. Below we summarize each category and our specialized focus in each.</p>
 
-<p>The systems side works on a range of experimental projects on Internet systems and services. Our interests span Web-based and peer-to-peer systems design, network measurement and traffic analysis, fault-tolerant Internet systems, wireless networking, and network security. Our mission is to investigate high-impact research avenues that will shape the next generation Internet systems and services.</p>
+<style>
+ul.jekyllcodex_accordion {position: relative; margin: 1.4rem 0!important; border-bottom: 1px solid rgba(0,0,0,0.25); padding-bottom: 0;}
+ul.jekyllcodex_accordion li {border-top: 1px solid rgba(0,0,0,0.25); list-style: none; margin-left: 0;}
+ul.jekyllcodex_accordion li input {display: none;}
+ul.jekyllcodex_accordion li label {display: block; cursor: pointer; padding: 0.75rem 2.4rem 0.75rem 0; margin: 0;}
+ul.jekyllcodex_accordion li div {display: none; padding-bottom: 1.2rem;}
+ul.jekyllcodex_accordion li input:checked + label {font-weight: bold;}
+ul.jekyllcodex_accordion li input:checked + label + div {display: block;}
+ul.jekyllcodex_accordion li label::before {content: "+"; font-weight: normal; font-size: 130%; line-height: 1.1rem; padding: 0; position: absolute; right: 0.5rem; transition: all 0.15s ease-in-out;}
+ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45deg);}
+</style>
 
-<p>The networks side engages in both theoretical and experimental research: while we use modeling and analytical techniques to study fundamental problems in computer networks, we also conduct experimental studies and build real systems. Our research covers a broad range of topics including online social networks, wireless networks, peer-to-peer networks, sizing buffers in Internet routers and content delivery networks.</p>
-
-<p>As an energetic research group, we have regular group meetings to discuss our current work and results. We also organize talks, research seminars and reading groups to facilitate cross-disciplinary discussion on topics of mutual interest.</p>
+<ul class="jekyllcodex_accordion">
+    
+        <li>
+<input id="accordion1" type="checkbox"><label for="accordion1">Systems</label><div>
+<p>Focus on design and optimization of modern computer systems, from architecture to operating systems. We study large-scale and reliable computing infrastructures, memory systems, compilers, and runtime adaptation. Our work spans mobile and pervasive computing, stream processing, and performance-driven systems analysis to build efficient, scalable, and adaptive computing environments.</p>
+</div>
+</li>
+    
+        <li>
+<input id="accordion2" type="checkbox"><label for="accordion2">Networking</label><div>
+<p>Investigate the theory and practice of computer networking, focusing on data center networking, software-defined networks (SDNs), and congestion control. Our work also examines the structure and dynamics of large-scale social, economic, and computer networks, aiming to improve connectivity, scalability, and data flow in modern distributed systems.</p>
+</div>
+</li>
+    
+        <li>
+<input id="accordion3" type="checkbox"><label for="accordion3">Databases &amp; Data Structures</label><div>
+<p>Our research addresses the full spectrum of data management, from the theoretical foundations of data structures to large-scale data processing systems. We design efficient, hardware-conscious data structures and explore new approaches for managing, querying, and analyzing massive datasets. We also focus on bridging cloud data processing &amp; data center networks to address hyperscale data processing, and the intersection of databases and big data analytics.</p>
+</div>
+</li>
+    
+        <li>
+<input id="accordion4" type="checkbox"><label for="accordion4">Security &amp; Privacy</label><div>
+<p>We focus on securing computing systems across the stack, from microarchitectural security to machine learning systems to interpersonal technology abuse, while also focusing on data privacy, applied cryptography and aiming to build secure and trustworthy computing environments.</p>
+</div>
+</li>
+    
+        <li>
+<input id="accordion5" type="checkbox"><label for="accordion5">Machine Learning &amp; AI Systems</label><div>
+<p>We also focus on the intersection of systems and artificial intelligence, where we develop efficient and secure infrastructures for large-scale machine learning, and visual computing. Our work targets performance, scalability, and reliability in ML systems, spanning topics like hardware acceleration, ML for systems optimization, robotics, and computer vision applications.</p>
+</div>
+</li>
+    
+</ul>
 
 <p>​</p>
 
