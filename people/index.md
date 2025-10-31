@@ -22,6 +22,8 @@ nav:
 {% include portrait.html name="Nandita Vijaykumar" description="Assistant Professor" image="images/nandita.webp" url="https://www.cs.toronto.edu/~nandita/"  %}
 {% include portrait.html name="Niv Dayan" description="Assistant Professor" image="images/niv.webp" url="http://nivdayan.net/"  %}
 {% include portrait.html name="Qizhen Zhang" description="Assistant Professor" image="images/qizhen.webp" url="https://qizhenzhang.me/" %}
+{% include portrait.html name="Tom Ristenpart" description="Joining Jan 2026" image="images/ristenpart.png" url="https://rist.tech.cornell.edu/" %}
+
 
 {% include list.html data="members" component="faculty" filters="role: future" %}
 {% include section.html %}
