@@ -136,7 +136,7 @@ header[data-big] .title-text {
   text-align: center;
 }
 header[data-big] .title {
-  font-size: 35px;
+  font-size: clamp(24px, 3vw, 30px);
 }
 header[data-big] .subtitle {
   font-size: var(--xl);
