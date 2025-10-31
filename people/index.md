@@ -74,7 +74,7 @@ nav:
 {% include portrait.html name="Shaopeng Lin" role="phd" image="images/shaopeng.webp" style="small" %}
 {% include portrait.html name="Steve Rhyner" role="phd" image="images/steve_rhyner.jpg" style="small" %}
 {% include portrait.html name="Vedic Sharma" role="phd" image="images/vedic.jpeg" style="small" %}
-{% include portrait.html name="Yu Bo Gao" role="phd" image="images/yu.webp"  %}
+{% include portrait.html name="Yu Bo Gao" role="phd" image="images/yu.webp" style="small" %}
 {% include portrait.html name="Zechen Ma" role="phd" image="images/zechen.webp" style="small" %}
 {% include portrait.html name="Zhijie Wu" role="phd" image="images/zhijie_w.jpg" style="small" %}
 
