@@ -157,7 +157,7 @@ header[data-big] {
   }
 
   .title {
-    font-size: 35px;
+    font-size: clamp(24px, 3vw, 30px);
   }
 
   .subtitle {
