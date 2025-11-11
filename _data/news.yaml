@@ -1,3 +1,10 @@
+- title: "Gururaj Saileshwar, and his students Shaopeng Lin and Joyce Qu win the Best Paper Award for Technical Impact at CSAW’25 (North America)" 
+  image: images/gpuhammer.webp
+  tages: news,faculty
+  date: 2025-11-11
+  link: https://csng.cs.toronto.edu/2025/11/11/gpuhammer-csaw25-win.html
+  description: "Congratulations to Gururaj Saileshwar, Shaopeng (Chris) Lin, Joyce Qu for winning the CSAW 25 (North America) Best Paper Award for Technical Impact for their work 'GPUHammer'! CSAW celebrates the most influential applied security research from top venues like IEEE S&P, USENIX Security, CCS, NDSS, CHI, and PETS. They nailed it—hammering home Canada’s first-ever CSAW win!"
+
 - title: U of T team discovers vulnerability at hardware-software boundary in cloud systems
   image: images/ri_202508.webp
   tages: news,faculty
