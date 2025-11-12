@@ -67,7 +67,7 @@ nav:
 {% include portrait.html name="Pritish Mishra" role="phd" image="images/pritish.webp" style="small" %}
 {% include portrait.html name="Renbo Tu" role="phd" image="images/renbo-30p.webp" style="small" %}
 {% include portrait.html name="Ruofan Liang" role="phd" image="images/ruofan.webp" style="small" %}
-{% include portrait.html name="Sajad Faghfoor Maghrebi" role="phd" image="images/sajad.webp" style="small" %}
+{% include portrait.html name="Sajad Faghfoor Maghrebi" role="phd" image="images/sajad.webp" url="https://www.cs.utoronto.ca/~smaghrebi/" style="small" %}
 {% include portrait.html name="Salaar Liaqat" role="phd" image="images/salaar.webp" style="small" %}
 {% include portrait.html name="Sankeerth Durvasula" role="phd" image="images/sankeerth.webp" style="small" %}
 {% include portrait.html name="Sejal Bhalla" role="phd" image="images/sejal.webp" style="small" %}
