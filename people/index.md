@@ -15,6 +15,7 @@ nav:
 {% include portrait.html name="Bianca Schroeder" description="Professor" image="images/bianca.webp" url="https://www.cs.toronto.edu/~bianca/"  %}
 {% include portrait.html name="Nick Koudas" description="Professor" image="images/koudas.png" url="https://www.cs.toronto.edu/~koudas/"  %}
 {% include portrait.html name="Peter Marbach" description="Professor" image="images/peter.webp" url="https://www.cs.toronto.edu/~marbach/"  %}
+{% include portrait.html name="Tom Ristenpart" description="Professor" image="images/ristenpart.png" url="https://rist.tech.cornell.edu/" %}
 {% include portrait.html name="Yashar Ganjali" description="Professor" image="images/yashar.webp" url="https://www.cs.toronto.edu/~yganjali/"  %}
 {% include portrait.html name="Anwar Hithnawi" description="Assistant Professor" image="images/anwar.webp" url="https://pps-lab.com/people/anwarhithnawi/"  %}
 {% include portrait.html name="Gennady Pekhimenko" description="Assistant Professor" image="images/gennady.webp" url="https://www.cs.toronto.edu/~pekhimenko/"  %}
@@ -22,7 +23,6 @@ nav:
 {% include portrait.html name="Nandita Vijaykumar" description="Assistant Professor" image="images/nandita.webp" url="https://www.cs.toronto.edu/~nandita/"  %}
 {% include portrait.html name="Niv Dayan" description="Assistant Professor" image="images/niv.webp" url="http://nivdayan.net/"  %}
 {% include portrait.html name="Qizhen Zhang" description="Assistant Professor" image="images/qizhen.webp" url="https://qizhenzhang.me/" %}
-{% include portrait.html name="Tom Ristenpart" description="Joining Jan 2026" image="images/ristenpart.png" url="https://rist.tech.cornell.edu/" %}
 
 
 {% include list.html data="members" component="faculty" filters="role: future" %}
