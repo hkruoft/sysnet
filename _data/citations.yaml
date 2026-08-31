@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3802124
+  title: 'Understanding the Impact of Data Noise in Federated Learning: [Experiments
+    &amp; Analysis]'
+  authors:
+  - Jinming Hu
+  - Jiahao Gu
+  - Kenta Ploch
+  - Hao Wang
+  - Jingxian Wang
+  - Wentao Wu
+  - Qizhen Zhang
+  publisher: Proceedings of the ACM on Management of Data
+  date: '2026-05-18'
+  link: https://doi.org/hchbh6
+  orcid: 0009-0009-4523-0735
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3718958.3750524
   title: 'SaTE: Low-Latency Traffic Engineering for Satellite Networks'
   authors:
