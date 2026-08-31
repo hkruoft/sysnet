@@ -50,6 +50,7 @@ nav:
 {% include portrait.html name="Gavin Guan" role="phd" image="images/gavin.webp" style="small" %}
 {% include portrait.html name="Hanzhang Yang" role="phd" image="images/hanzhang_yang.jpg" style="small" %}
 {% include portrait.html name="Hyuhng Min Kim" role="phd" image="images/hmkim.jpeg" style="small" %}
+{% include portrait.html name="Iraklis Premptis" role="phd" image="images/iraklis_premptis.webp" style="small" %}
 {% include portrait.html name="Guy Khazma" role="phd" image="images/guy.webp" style="small" %}
 {% include portrait.html name="Jason (Jiasheng) Hu" role="phd" image="images/jiasheng.webp" style="small" %}
 {% include portrait.html name="Jiacheng Yang" role="phd" image="images/jiacheng.jpeg" style="small" %}
@@ -71,7 +72,9 @@ nav:
 {% include portrait.html name="Shaopeng Lin" role="phd" image="images/shaopeng.webp" style="small" %}
 {% include portrait.html name="Steve Rhyner" role="phd" image="images/steve_rhyner.jpg" style="small" %}
 {% include portrait.html name="Vedic Sharma" role="phd" image="images/vedic.jpeg" style="small" %}
+{% include portrait.html name="Violette Bilynska" role="phd" image="images/violetta_b.png" style="small" %}
 {% include portrait.html name="Yu Bo Gao" role="phd" image="images/yu.webp" style="small" %}
+{% include portrait.html name="Yuxiang Huang" role="phd" image="images/yuxiang_huang.webp" style="small" %}
 {% include portrait.html name="Zechen Ma" role="phd" image="images/zechen.webp" style="small" %}
 {% include portrait.html name="Zhijie Wu" role="phd" image="images/zhijie_w.jpg" style="small" %}
 
@@ -79,10 +82,14 @@ nav:
 {% include section.html %}
 
 {% include portrait.html name="Amogh Joshi" role="masters" image="images/amogh.jpeg" style="small" %}
+{% include portrait.html name="Aryan Vahabpour" role="masters" image="images/aryanvahabpour.png" style="small" %}
+{% include portrait.html name="Brenden Yiping Wang" role="masters" image="images/brendenwang.jpeg" style="small" %}
 {% include portrait.html name="Christian Tabbah" role="masters" image="images/christian.webp" style="small" %}
 {% include portrait.html name="Felix Zhang" role="masters" image="images/felixzhang.jpeg" style="small" %}
 {% include portrait.html name="Filip Grigorov" role="masters" image="images/filip.webp" style="small" %}
 {% include portrait.html name="Stefan de Lasa" description="MASc Student" image="images/stefandelasa.jpg" url="https://www.linkedin.com/in/stefandelasa/" style="small" %}
+
+
 
 {% comment %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: current" %}
