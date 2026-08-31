@@ -32,7 +32,6 @@ nav:
 
 {% include portrait.html name="Moshe Gabel" role="research-associate" image="images/moshe.webp"  %}
 {% include portrait.html name="Christina Christodoulakis" role="postdoc" image="images/christinac.webp"  %}
-{% include portrait.html name="Christina Giannoula" role="postdoc" image="images/christinag.webp"  %}
 
 {% comment %}
 {% include list.html data="members" component="portrait" filters="role: research-associate" %}
@@ -45,11 +44,9 @@ nav:
 {% include portrait.html name="Adrian Zhao" role="phd" image="images/adrian.webp" style="small"  %}
 {% include portrait.html name="Anand Jayarajan" role="phd" image="images/anand.webp" style="small" %}
 {% include portrait.html name="Anthony DiMaggio" role="phd" image="images/anthony_dimaggio.jpeg" style="small" %}
-{% include portrait.html name="Andreas Burger" role="phd" image="images/andreas.webp" style="small" %}
 {% include portrait.html name="Ashwin Kartikeyan" image="images/ashwin_k.jpeg" role="phd" style="small" %}
 {% include portrait.html name="Brian Ramprasad" role="phd" image="images/brianr.webp" style="small" %}
 {% include portrait.html name="Di Wu" image="images/di_wu.webp" role="phd" style="small" %}
-{% include portrait.html name="Farid Zandi" image="images/faridzandi.jpg" role="phd" url="https://www.linkedin.com/in/farid-zandi1997/" style="small" %}
 {% include portrait.html name="Gavin Guan" role="phd" image="images/gavin.webp" style="small" %}
 {% include portrait.html name="Hyuhng Min Kim" role="phd" image="images/hmkim.jpeg" style="small" %}
 {% include portrait.html name="Guy Khazma" role="phd" image="images/guy.webp" style="small" %}
@@ -68,7 +65,6 @@ nav:
 {% include portrait.html name="Renbo Tu" role="phd" image="images/renbo-30p.webp" style="small" %}
 {% include portrait.html name="Ruofan Liang" role="phd" image="images/ruofan.webp" style="small" %}
 {% include portrait.html name="Sajad Faghfoor Maghrebi" role="phd" image="images/sajad.webp" url="https://www.cs.utoronto.ca/~smaghrebi/" style="small" %}
-{% include portrait.html name="Salaar Liaqat" role="phd" image="images/salaar.webp" style="small" %}
 {% include portrait.html name="Sankeerth Durvasula" role="phd" image="images/sankeerth.webp" style="small" %}
 {% include portrait.html name="Sejal Bhalla" role="phd" image="images/sejal.webp" style="small" %}
 {% include portrait.html name="Shaopeng Lin" role="phd" image="images/shaopeng.webp" style="small" %}
@@ -86,7 +82,7 @@ nav:
 {% include portrait.html name="Felix Zhang" role="masters" image="images/felixzhang.jpeg" style="small" %}
 {% include portrait.html name="Filip Grigorov" role="masters" image="images/filip.webp" style="small" %}
 {% include portrait.html name="Stefan de Lasa" description="MASc Student" image="images/stefandelasa.jpg" url="https://www.linkedin.com/in/stefandelasa/" style="small" %}
-{% include portrait.html name="Victor Pineda" role="masters" image="images/victorpineda.jpeg" style="small" %}
+
 {% comment %}
 {% include list.html data="members" component="portrait" filters="role: phd, group: current" %}
 {% include list.html data="members" component="portrait" filters="role: masters, group: current" %}
@@ -98,12 +94,15 @@ nav:
 {% include portrait.html name="Alexey Khrabrov" role="alum-phd" image="images/alexey.webp" style="small" %}
 {% include portrait.html name="Ali Jokar" role="alum-phd" image="images/alijokar.jpeg" style="small" %}
 {% include portrait.html name="Christina Christodoulakis" role="alum-phd" image="images/christinac.webp" style="small" %}
+{% include portrait.html name="Farid Zandi" image="images/faridzandi.jpg" role="alum-phd" url="https://www.linkedin.com/in/farid-zandi1997/" style="small" %}
+{% include portrait.html name="Salaar Liaqat" role="alum-phd" image="images/salaar.webp" style="small" %}
 {% include portrait.html name="Sepehr Abbasi Zadeh" role="alum-phd" image="images/sepehraz.jpg" url="https://www.cs.toronto.edu/~sepehr/" style="small" %}
 {% include portrait.html name="Alireza Shateri" role="alum-masters" image="images/alireza.webp" style="small" %}
 {% include portrait.html name="Akshay Arun Bapat" role="alum-masters" image="images/akshay-bapat.webp" url="https://www.utsc.utoronto.ca/cms/akshay-arun-bapat" style="small" %}
 {% include portrait.html name="Brian Fu" role="alum-masters" image="images/brianfu.webp" style="small" %}
 {% include portrait.html name="Nika Mosayebibehrooz" role="alum-masters" image="images/nika.webp" url="https://www.linkedin.com/in/nika-mosayebi/" style="small" %}
 {% include portrait.html name="Sahar Sheikholeslami" role="alum-masters" image="images/sahar.webp" style="small" %}
+{% include portrait.html name="Victor Pineda" role="alum-masters" image="images/victorpineda.jpeg" style="small" %}
 
 {% comment %}
 {% include list.html data="members" component="portrait" filters="role: alum-phd" %}
