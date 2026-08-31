@@ -61,7 +61,6 @@ nav:
 {% include portrait.html name="Navid Eslami" role="phd" image="images/navid.webp" style="small" %}
 {% include portrait.html name="Nikolay Avramov" role="phd" image="images/nikolay_a.jpeg" style="small" %}
 {% include portrait.html name="Pawan Kumar Sanjaya" role="phd" image="images/pawan.webp" url="https://pawks.github.io/" style="small"  %}
-{% include portrait.html name="Parsa Pazhooheshy" role="phd" image="images/parsa.jpg" style="small" %}
 {% include portrait.html name="Pavel Golikov" role="phd" image="images/pavel.jpeg" style="small" %}
 {% include portrait.html name="Pritish Mishra" role="phd" image="images/pritish.webp" style="small" %}
 {% include portrait.html name="Renbo Tu" role="phd" image="images/renbo-30p.webp" style="small" %}
@@ -103,6 +102,7 @@ nav:
 {% include portrait.html name="Ali Jokar" role="alum-phd" image="images/alijokar.jpeg" style="small" %}
 {% include portrait.html name="Christina Christodoulakis" role="alum-phd" image="images/christinac.webp" style="small" %}
 {% include portrait.html name="Farid Zandi" image="images/faridzandi.jpg" role="alum-phd" url="https://www.linkedin.com/in/farid-zandi1997/" style="small" %}
+{% include portrait.html name="Parsa Pazhooheshy" role="phd" image="images/parsa.jpg" style="small" %}
 {% include portrait.html name="Salaar Liaqat" role="alum-phd" image="images/salaar.webp" style="small" %}
 {% include portrait.html name="Sepehr Abbasi Zadeh" role="alum-phd" image="images/sepehraz.jpg" url="https://www.cs.toronto.edu/~sepehr/" style="small" %}
 {% include portrait.html name="Alireza Shateri" role="alum-masters" image="images/alireza.webp" style="small" %}
