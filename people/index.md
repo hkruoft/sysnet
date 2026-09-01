@@ -30,7 +30,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-book-open" %} Researchers
 
-{% include portrait.html name="Moshe Gabel" role="research-associate" image="images/moshe.webp"  %}
+{% include portrait.html name="Willy Zwaenepoel" description="Visiting Professor" image="images/willyzwaenepoel.jpg"  %}
+{% include portrait.html name="Todd C. Mowry" description="Visiting Professor" image="images/tcm.jpg"  %}
 {% include portrait.html name="Christina Christodoulakis" role="postdoc" image="images/christinac.webp"  %}
 
 {% comment %}
@@ -111,6 +112,14 @@ nav:
 {% include portrait.html name="Nika Mosayebibehrooz" role="alum-masters" image="images/nika.webp" url="https://www.linkedin.com/in/nika-mosayebi/" style="small" %}
 {% include portrait.html name="Sahar Sheikholeslami" role="alum-masters" image="images/sahar.webp" style="small" %}
 {% include portrait.html name="Victor Pineda" role="alum-masters" image="images/victorpineda.jpeg" style="small" %}
+
+{% include section.html %}
+# {% include icon.html icon="fa-solid fa-book-open" %} Postdoc/Research Alumni
+
+{% include portrait.html name="Moshe Gabel" role="research-associate" image="images/moshe.webp"  %}
+{% include portrait.html name="Christina Giannoula" role="postdoc" image="images/christinag.webp"  %}
+
+
 
 {% comment %}
 {% include list.html data="members" component="portrait" filters="role: alum-phd" %}
