@@ -30,7 +30,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-book-open" %} Researchers
 
-{% include portrait.html name="Willy Zwaenepoel" description="Visiting Professor" image="images/willyzwaenepoel.jpg"  %}
+{% include portrait.html name="Willy Zwaenepoel" description="Visiting Professor" image="images/willyzwanepoel.jpg"  %}
 {% include portrait.html name="Todd C. Mowry" description="Visiting Professor" image="images/tcm.jpg"  %}
 {% include portrait.html name="Christina Christodoulakis" role="postdoc" image="images/christinac.webp"  %}
 
