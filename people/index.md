@@ -43,19 +43,24 @@ nav:
 # {% include icon.html icon="fa-solid fa-scroll" %} Graduate Students
 
 {% include portrait.html name="Adrian Zhao" role="phd" image="images/adrian.webp" style="small"  %}
+{% include portrait.html name="Ali Darabi" role="phd" style="small"  %}
 {% include portrait.html name="Anand Jayarajan" role="phd" image="images/anand.webp" style="small" %}
 {% include portrait.html name="Anthony DiMaggio" role="phd" image="images/anthony_dimaggio.jpeg" style="small" %}
 {% include portrait.html name="Ashwin Kartikeyan" image="images/ashwin_k.jpeg" role="phd" style="small" %}
 {% include portrait.html name="Brian Ramprasad" role="phd" image="images/brainr.jpeg" style="small" %}
-{% include portrait.html name="Di Wu" image="images/di_wu.webp" role="phd" style="small" %}
+{% include portrait.html name="Danial Gharib" role="phd" style="small" %}
+{% include portrait.html name="David Z.Y. Lin" role="phd" style="small" %}
+{% include portrait.html name="Di Wu" image="images/di_wu.webp" role="phd" style="small" %}}
 {% include portrait.html name="Gavin Guan" role="phd" image="images/gavin.webp" style="small" %}
 {% include portrait.html name="Hanzhang Yang" role="phd" image="images/hanzhang_yang.jpg" style="small" %}
 {% include portrait.html name="Hyuhng Min Kim" role="phd" image="images/hmkim.jpeg" style="small" %}
 {% include portrait.html name="Iraklis Premptis" role="phd" image="images/iraklis_premptis.webp" style="small" %}
 {% include portrait.html name="Guy Khazma" role="phd" image="images/guy.webp" style="small" %}
 {% include portrait.html name="Jason (Jiasheng) Hu" role="phd" image="images/jiasheng.webp" style="small" %}
+{% include portrait.html name="Jeremy Hui" role="phd" style="small" %}
 {% include portrait.html name="Jiacheng Yang" role="phd" image="images/jiacheng.jpeg" style="small" %}
 {% include portrait.html name="Kai Shen" role="phd" image="images/kai.jpg" url="https://www.kaishen.ca/" style="small" %}
+{% include portrait.html name="Kelvin Huang" role="phd" style="small" %}
 {% include portrait.html name="Kevin Song" role="phd" image="images/kevin.webp" style="small" %}
 {% include portrait.html name="Mohammadreza Mofayezi" role="phd" image="images/mofayezi.jpg" url="https://mofayezi.github.io" style="small" %}
 {% include portrait.html name="Myles Thiessen" role="phd" image="images/myles.webp" style="small" %}
@@ -71,6 +76,7 @@ nav:
 {% include portrait.html name="Sejal Bhalla" role="phd" image="images/sejal.webp" style="small" %}
 {% include portrait.html name="Shaopeng Lin" role="phd" image="images/shaopeng.webp" style="small" %}
 {% include portrait.html name="Steve Rhyner" role="phd" image="images/steve_rhyner.jpg" style="small" %}
+{% include portrait.html name="Tse-Wei Lin" role="phd" style="small" %}
 {% include portrait.html name="Vedic Sharma" role="phd" image="images/vedic.jpeg" style="small" %}
 {% include portrait.html name="Violette Bilynska" role="phd" image="images/violetta_b.png" style="small" %}
 {% include portrait.html name="Yu Bo Gao" role="phd" image="images/yu.webp" style="small" %}
