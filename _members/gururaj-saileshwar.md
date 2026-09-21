@@ -6,7 +6,7 @@ aliases:
   - Gururaj Saileshwar
   - G Saileshwar
   - Gururaj S
-office: BA 5234
+office: BA 7266
 links:
   home-page: https://gururaj-s.github.io/
   email: gururaj@cs.toronto.edu  
