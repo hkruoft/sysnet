@@ -75,7 +75,7 @@ nav:
 {% include portrait.html name="Sankeerth Durvasula" role="phd" image="images/sankeerth.webp" style="small" %}
 {% include portrait.html name="Sejal Bhalla" role="phd" image="images/sejal.webp" style="small" %}
 {% include portrait.html name="Shaopeng Lin" role="phd" image="images/shaopeng.webp" style="small" %}
-{% include portrait.html name="Steve Rhyner" role="phd" image="images/steve_rhyner.jpg" style="small" %}
+{% include portrait.html name="Steve Rhyner" role="phd" image="images/steve_rhyner.jpg" url="https://srhyner.com/" style="small" %}
 {% include portrait.html name="Tse-Wei Lin" role="phd" style="small" %}
 {% include portrait.html name="Vedic Sharma" role="phd" image="images/vedic.jpeg" style="small" %}
 {% include portrait.html name="Violette Bilynska" role="phd" image="images/violetta_b.png" style="small" %}
